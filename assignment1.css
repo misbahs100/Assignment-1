@@ -1,0 +1,184 @@
+body{
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-right: 0%;
+    
+}
+p{
+    font-family: 'Inconsolata', monospace;
+
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+}
+h1, h2{
+    font-family: 'Noto Sans', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    line-height: 10px;
+}
+.navy-highlight{
+    color:navy;
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 50px;
+}
+.half-width a{
+    text-decoration: none;
+    padding: 10px 20px;
+    
+    background-color: orange;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    background-image: linear-gradient(45deg, orange, white);
+}
+
+.marTop{
+    margin-top: 50px;
+    margin-right: 90px;
+}
+section{
+    margin-top: 60px;
+    height: 500px;
+    
+}
+.Carrear-Section{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+   
+}
+
+.Projects-section{
+    background-color: rgb(241, 232, 232);
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 150px;
+
+}
+.Projects-section h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.one-third-width{
+    width: 25%;
+    height: 65%;
+    float: left;
+    margin-left: 4.5%;
+    padding: 15px 15px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-right: 4px solid rgb(178, 196, 194);
+    border-bottom: 4px solid rgb(178, 196, 194);
+    
+}
+.one-third-width img{
+    width: 100%;
+   
+}
+.one-third-width a{
+    text-decoration: none;
+    color: black;
+}
+.Inquiry-icons-section{
+    padding-top: 60px;
+}
+.back{
+    position: relative;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.back img{
+    width: 100%;
+    
+
+}
+.text{
+    position: absolute;
+    top:35%;
+    bottom: 20%;
+    left: 5%;
+    width: 60%;
+    color: white;
+    font-style: oblique;
+    font-size: 40px;
+}
+.chat{
+    position: absolute;
+    top: 45%;
+    
+    left: 75%;
+    
+}
+.chat a{
+    text-decoration: none;
+    font-size: 16px;
+    font-style: normal;
+    color: white;
+    background-image: linear-gradient(45deg, orange, rgb(219, 152, 27));
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.email{
+    margin-top: 50px;
+    text-align: center;
+    height: 100px;
+  
+}
+.email h3{
+    color: gray;
+}
+.email a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+      
+}
+.icons{
+    margin-top: 0%;
+    margin-left: 40%;
+   
+}
+.icons a{
+    
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    float: left;
+    display: flex;
+    margin: 10px 10px;
+    justify-content: center;,k
+}
+#icon-1{
+    background-image: url("image 6.png");
+    background-repeat: no-repeat;
+}
+#icon-2{
+    background-image: url("image 7.png");
+    background-repeat: no-repeat;
+}
+#icon-3{
+    background-image: url("image 9.png");
+    background-repeat: no-repeat;
+}
+.foot p{
+    font-size: 10px;
+    color: gray;
+    text-align: center;
+}
+
